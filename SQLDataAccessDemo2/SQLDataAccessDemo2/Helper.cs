@@ -13,7 +13,7 @@ namespace SQLDataAccessDemo2
         public static string CnnVal(string name)
         {
             //this will look-up the connection string just from the name
-            var output =  ConfigurationManager.ConnectionString[name].ConnectionString;
+            var output =  ConfigurationManager.ConnectionStrings[name].ConnectionString;
             return output;
         }
     }
