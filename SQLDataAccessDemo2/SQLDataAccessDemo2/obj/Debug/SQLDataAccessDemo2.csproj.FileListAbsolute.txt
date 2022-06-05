@@ -1,0 +1,5 @@
+C:\Emanuel\C#\SQLDataAccessDemo2\SQLDataAccessDemo2\obj\Debug\SQLDataAccessDemo2.csproj.AssemblyReference.cache
+C:\Emanuel\C#\SQLDataAccessDemo2\SQLDataAccessDemo2\obj\Debug\SQLDataAccessDemo2.Dashboard.resources
+C:\Emanuel\C#\SQLDataAccessDemo2\SQLDataAccessDemo2\obj\Debug\SQLDataAccessDemo2.Properties.Resources.resources
+C:\Emanuel\C#\SQLDataAccessDemo2\SQLDataAccessDemo2\obj\Debug\SQLDataAccessDemo2.csproj.GenerateResource.cache
+C:\Emanuel\C#\SQLDataAccessDemo2\SQLDataAccessDemo2\obj\Debug\SQLDataAccessDemo2.csproj.CoreCompileInputs.cache
